@@ -1,0 +1,9 @@
+<div className='rounded-xl bg-white border-[1px] border-black/25 flex items-center w-6/12 mt-24 p-2'>
+    <p className='px-4 text-[#B0B0B0] border-r-[1px] border-r-black/25 text-xl'>ID</p>
+    <p className='px-4 text-[#B0B0B0] border-r-[1px] border-r-black/25 text-xl'>Название</p>
+    <p className='px-4 text-[#B0B0B0] border-r-[1px] border-r-black/25 text-xl'>Статус</p>
+    <p className='px-4 text-[#B0B0B0] border-r-[1px] border-r-black/25 text-xl'>API Key</p>
+    <p className='px-4 text-[#B0B0B0] border-r-[1px] border-r-black/25 text-xl'>Client ID</p>
+    <p className='px-4 text-[#B0B0B0] border-r-[1px] border-r-black/25 text-xl'>Port</p>
+    <input placeholder='Поиск' className='text-[#B0B0B0] text-xl border-b-[1px] border-b-black/25 p-1 w-48 px-2 ml-4 focus:outline-none'/>
+</div>
